@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import os, os.path, csv
 
-
+#test
 
 url = 'https://www.tgju.org/gold-chart'
 response = requests.get(url)
