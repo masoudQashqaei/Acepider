@@ -27,3 +27,4 @@ for d in data:
 
 
 print(prices)
+print('Test has been completed')
