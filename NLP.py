@@ -89,3 +89,4 @@ start = numpy.random.randint(0, len(x_data) - 1)
 pattern = x_data[start]
 print("Random Seed:")
 print("\"", ''.join([num_to_char[value] for value in pattern]), "\"")
+#
